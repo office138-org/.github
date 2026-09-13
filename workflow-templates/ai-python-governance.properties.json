@@ -1,0 +1,4 @@
+{
+  "name": "AI Python Governance CI",
+  "description": "GitHub Governance v1 PR quality gate plus post-merge pytest-xdist validation using office138-org/ci-standards."
+}
