@@ -14,8 +14,8 @@
 
 ## Governance Checklist
 
-- [ ] Human approval obtained
-- [ ] No direct main push
+- [ ] Human Approval obtained after the final material change
+- [ ] No direct `main` push
 - [ ] Governance requirements reviewed
-- [ ] CI passed
-- [ ] Release impact assessed
+- [ ] PR CI passed
+- [ ] Release/formal-closure impact assessed
