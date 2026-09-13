@@ -1,0 +1,3 @@
+# CODEOWNERS in this repository protects organization-standard files only.
+# Product repositories receive their own CODEOWNERS from repository-template.
+* @office138
